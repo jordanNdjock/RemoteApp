@@ -1,2 +1,2 @@
-# RemoteApp
+# RemoteChatApp
 Application de chat en remote
